@@ -16,6 +16,7 @@ session_start();
   <body>
    	<?php
 		include('templates/nav.php');
+    include('fin_form.php');
 		?>
 
     <!-- Optional JavaScript; choose one of the two! -->

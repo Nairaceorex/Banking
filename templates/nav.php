@@ -36,7 +36,7 @@
         <a class="nav-link" href="fin.php">Финансы </a>
       </li>
       <li class="nav-item active">
-        <a class="nav-link" href="report">Отчеты </a>
+        <a class="nav-link" href="report.php">Отчеты </a>
       </li>
       <li class="nav-item active">
         <a class="nav-link" href="about.php">О нас </a>
